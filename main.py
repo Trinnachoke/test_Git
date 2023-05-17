@@ -3,7 +3,7 @@ from secret import password
 def my_function(a, b):
     return a - b
 
-x = 3
+x = 30
 
 print("Hi")
 
