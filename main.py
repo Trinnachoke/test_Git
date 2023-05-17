@@ -6,6 +6,7 @@ def my_function(a, b):
 x = 30
 y = 20
 z = 10
+a = 5
 
 print("Hi")
 
