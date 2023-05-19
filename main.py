@@ -11,7 +11,7 @@ b = 3
 c = 1
 d = -5
 e = -10
-f = a + c
+f = a + b
 
 print("Hi")
 
